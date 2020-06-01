@@ -1,5 +1,6 @@
 # Reinforcement Learning
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uGokalp/Reinforcement-Learning-Specialization/master)
 **[Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)**
 + **[Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)**
   + Week 1
